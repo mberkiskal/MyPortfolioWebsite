@@ -1,0 +1,23 @@
+﻿@model MVCCV.Models.Entity.TBLSOCIALMEDIA
+@{
+    ViewBag.Title = "BringSocialMedia";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h4>Update Social Media Account</h4>
+<br />
+<form class="form-group" method="post">
+    <br />
+    @Html.Label("Account")
+    @Html.TextBoxFor(x => x.ACCOUNT, new { @class = "form-control" })
+    <br />
+    @Html.Label("Link")
+    @Html.TextBoxFor(x => x.LINK, new { @class = "form-control" })
+    <br />
+    @Html.Label("Icon")
+    @Html.TextBoxFor(x => x.ICON, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Update</button>
+</form>
+

@@ -1,0 +1,39 @@
+﻿@using MVCCV.Models.Entity;
+@model List<TBLABOUT>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>About</h2>
+
+<br />
+<h2>Update Profile</h2>
+<br />
+<form method="post">
+    @foreach (var item in Model)
+    {
+        <label>Name: </label>
+        <input type="text" name="NAME" value="@item.NAME" class="form-control" />
+        <br />
+        <label>Surname: </label>
+        <input type="text" name="SURNAME" value="@item.SURNAME" class="form-control" />
+        <br />
+        <label>Adress: </label>
+        <input type="text" name="ADDRESS" value="@item.ADDRESS" class="form-control" />
+        <br />
+        <label>Phone Number: </label>
+        <input type="text" name="PHONENUMBER" value="@item.PHONENUMBER" class="form-control" />
+        <br />
+        <label>Mail: </label>
+        <input type="text" name="MAIL" value="@item.MAIL" class="form-control" />
+        <br />
+        <label>Image: </label>
+        <input type="text" name="IMAGE" value="@item.IMAGE" class="form-control" />
+        <br />
+        <label>Description: </label>
+        <textarea rows="5" class="form-control" name="DESCRIPTION">@item.DESCRIPTION</textarea>
+    }
+    <button class="btn btn-success">Update</button>
+    <br />
+</form>

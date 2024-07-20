@@ -1,0 +1,15 @@
+﻿@using MVCCV.Models.Entity;
+@model List<TBLSKILLS>
+<div class="resume-section-content">
+    <h2 class="mb-5">Skills</h2>
+    <div class="subheading mb-3">Programming Languages & Tools</div>
+    <ul class="fa-ul mb-0">
+        @foreach (var x in Model)
+        {
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                @x.SKILL
+            </li>
+        }
+        </ul>
+    </div>

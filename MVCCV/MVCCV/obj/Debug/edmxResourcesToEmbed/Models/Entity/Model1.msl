@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CVModelStoreContainer" CdmEntityContainer="CVEntities">
+    <EntitySetMapping Name="TBLABOUT">
+      <EntityTypeMapping TypeName="CVModel.TBLABOUT">
+        <MappingFragment StoreEntitySet="TBLABOUT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="SURNAME" ColumnName="SURNAME" />
+          <ScalarProperty Name="ADDRESS" ColumnName="ADDRESS" />
+          <ScalarProperty Name="PHONENUMBER" ColumnName="PHONENUMBER" />
+          <ScalarProperty Name="MAIL" ColumnName="MAIL" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="IMAGE" ColumnName="IMAGE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLADMIN">
+      <EntityTypeMapping TypeName="CVModel.TBLADMIN">
+        <MappingFragment StoreEntitySet="TBLADMIN">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLCERTIFICATES">
+      <EntityTypeMapping TypeName="CVModel.TBLCERTIFICATES">
+        <MappingFragment StoreEntitySet="TBLCERTIFICATES">
+          <ScalarProperty Name="LINK" ColumnName="LINK" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLEDUCATION">
+      <EntityTypeMapping TypeName="CVModel.TBLEDUCATION">
+        <MappingFragment StoreEntitySet="TBLEDUCATION">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TITLE" ColumnName="TITLE" />
+          <ScalarProperty Name="SUBTITLE1" ColumnName="SUBTITLE1" />
+          <ScalarProperty Name="SUBTITLE2" ColumnName="SUBTITLE2" />
+          <ScalarProperty Name="GPA" ColumnName="GPA" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLEXPERIENCE">
+      <EntityTypeMapping TypeName="CVModel.TBLEXPERIENCE">
+        <MappingFragment StoreEntitySet="TBLEXPERIENCE">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TITLE" ColumnName="TITLE" />
+          <ScalarProperty Name="SUBTITLE" ColumnName="SUBTITLE" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLINTERESTS">
+      <EntityTypeMapping TypeName="CVModel.TBLINTERESTS">
+        <MappingFragment StoreEntitySet="TBLINTERESTS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DESCRIPTION1" ColumnName="DESCRIPTION1" />
+          <ScalarProperty Name="DESCRIPTION2" ColumnName="DESCRIPTION2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLSKILLS">
+      <EntityTypeMapping TypeName="CVModel.TBLSKILLS">
+        <MappingFragment StoreEntitySet="TBLSKILLS">
+          <ScalarProperty Name="PROGRESS" ColumnName="PROGRESS" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="SKILL" ColumnName="SKILL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLCONTACT">
+      <EntityTypeMapping TypeName="CVModel.TBLCONTACT">
+        <MappingFragment StoreEntitySet="TBLCONTACT">
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+          <ScalarProperty Name="MESSAGE" ColumnName="MESSAGE" />
+          <ScalarProperty Name="SUBJECT" ColumnName="SUBJECT" />
+          <ScalarProperty Name="MAIL" ColumnName="MAIL" />
+          <ScalarProperty Name="NAMESURNAME" ColumnName="NAMESURNAME" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLSOCIALMEDIA">
+      <EntityTypeMapping TypeName="CVModel.TBLSOCIALMEDIA">
+        <MappingFragment StoreEntitySet="TBLSOCIALMEDIA">
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+          <ScalarProperty Name="ICON" ColumnName="ICON" />
+          <ScalarProperty Name="LINK" ColumnName="LINK" />
+          <ScalarProperty Name="ACCOUNT" ColumnName="ACCOUNT" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

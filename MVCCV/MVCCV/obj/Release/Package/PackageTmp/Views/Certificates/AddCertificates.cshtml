@@ -1,0 +1,25 @@
+﻿@model MVCCV.Models.Entity.TBLCERTIFICATES
+@{
+    ViewBag.Title = "AddCertificates";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h4>Add Certificates</h4>
+<br />
+<form class="form-group" method="post">
+    <br />
+    @Html.Label("Description")
+    @Html.TextBoxFor(x => x.DESCRIPTION, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.DESCRIPTION, "", new { @style = "color:Red" })
+    <br />
+    @Html.Label("Date")
+    @Html.TextBoxFor(x => x.DATE, new { @class = "form-control" })
+    <br />
+    @Html.Label("Link")
+    @Html.TextBoxFor(x => x.LINK, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.LINK, "", new { @style = "color:Red" })
+    <br />
+    <button class="btn btn-success">Submit</button>
+</form>
+

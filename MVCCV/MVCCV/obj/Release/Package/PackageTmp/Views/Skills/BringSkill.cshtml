@@ -1,0 +1,23 @@
+﻿@model MVCCV.Models.Entity.TBLSKILLS
+@{
+    ViewBag.Title = "BringSkill";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h4>Update Skills</h4>
+<br />
+<form class="form-group" method="post">
+    <br />
+    @Html.Label("ID")
+    @Html.TextBoxFor(x => x.ID, new { @class = "form-control" })
+    <br />
+    @Html.Label("Skill")
+    @Html.TextBoxFor(x => x.SKILL, new { @class = "form-control" })
+    <br />
+    @Html.Label("Progress")
+    @Html.TextBoxFor(x => x.PROGRESS, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Update</button>
+</form>
+

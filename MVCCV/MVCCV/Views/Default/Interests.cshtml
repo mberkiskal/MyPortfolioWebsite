@@ -1,0 +1,12 @@
+﻿@using MVCCV.Models.Entity;
+@model List<TBLINTERESTS>
+<div class="resume-section-content">
+    <h2 class="mb-5">Interests</h2>
+    @foreach (var x in Model)
+    {
+        <p><strong> @x.DESCRIPTION1 </strong> </p>
+        <p class="mb-0">@x.DESCRIPTION2</p>
+        <br />
+        <br />
+    }
+</div>

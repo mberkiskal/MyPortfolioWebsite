@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mberk\\source\\repos\\MVCCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|c:\\users\\mberk\\source\\repos\\mvccv\\mvccv\\views\\interests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\views\\interests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\controllers\\certificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\controllers\\certificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|C:\\Users\\mberk\\source\\repos\\MVCCV\\mvccv\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61C97478-3E7B-428D-B7C6-918ECC79D477}|MVCCV\\MVCCV.csproj|solutionrelative:mvccv\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\Interests\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCV\\Views\\Interests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\Interests\\Index.cshtml",
+              "RelativeToolTip": "MVCCV\\Views\\Interests\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:00:58.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCV\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "MVCCV\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T12:58:44.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Models\\Entity\\Model1.edmx",
+              "RelativeDocumentMoniker": "MVCCV\\Models\\Entity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MVCCV\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-16T11:54:35.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVCCV\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVCCV\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:32:08.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MVCCV\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MVCCV\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:18:45.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "MVCCV\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "MVCCV\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:18:40.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCV\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "MVCCV\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T14:39:48.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MVCCV\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MVCCV\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:17:34.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCV\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MVCCV\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T12:27:29.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CertificatesController.cs",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Controllers\\CertificatesController.cs",
+              "RelativeDocumentMoniker": "MVCCV\\Controllers\\CertificatesController.cs",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Controllers\\CertificatesController.cs",
+              "RelativeToolTip": "MVCCV\\Controllers\\CertificatesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:18:47.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MVCCV\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\mberk\\source\\repos\\MVCCV\\MVCCV\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MVCCV\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T12:23:19.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

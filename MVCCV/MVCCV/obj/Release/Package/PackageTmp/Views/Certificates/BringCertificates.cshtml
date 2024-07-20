@@ -1,0 +1,25 @@
+﻿@model MVCCV.Models.Entity.TBLCERTIFICATES
+@{
+    ViewBag.Title = "BringCertificates";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h4>Update Certificates</h4>
+<br />
+<form class="form-group" method="post">
+    <br />
+    @Html.Label("Certificates Description")
+    @Html.TextBoxFor(x => x.DESCRIPTION, new { @class = "form-control" })
+    <br />
+    @Html.Label("Certificates Date")
+    @Html.TextBoxFor(x => x.DATE, new { @class = "form-control" })
+    <br />
+    @Html.Label("Certificates Link")
+    @Html.TextBoxFor(x => x.LINK, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Update</button>
+</form>
+
+
+
